@@ -1,29 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+"GBKUJEVUDW7XAEVA5SQ5BPHVP54WNLWDCKWI6LIDN5DO475MLCZNPQQ7"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Gemsociety"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/cCKyP73/images-1.png"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="TerraVirtua"
+ORG_URL="https://www.TerraVirtua.org"
+ORG_DESCRIPTION="Terra Virtua  (TV) is the first fully immersive, blockchain-driven virtual reality entertainment platform, uniquely focusing on VR games, eSports, live events and broadcasts, combining the admission elements of netflix"
+ORG_TWITTER="@TerraVirtua"
+ORG_LOGO="https://i.ibb.co/TWXZtGb/image.jpg"
+ORG_OFFICIAL_EMAIL="terravirtua@gmail.com"
 
 
 [[CURRENCIES]]
-code="AngryShiba"
-issuer="GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+code="TerraVirtua"
+issuer="GBKUJEVUDW7XAEVA5SQ5BPHVP54WNLWDCKWI6LIDN5DO475MLCZNPQQ7"
 anchor_asset="false"
-name="Angry Shiba"
-desc="A Decentralized Meme Token that Evolved into a Vibrant Ecosystem
-SHIB, LEASH, BONE — ShibaSwap — Innovative Reward System — The Shiba Incubator — And more. 585k+ Community Members and Growing Fast!."
-conditions="From its inception, Shiba Inu has done things differently. Starting with a supply of 1 quadrillion, our founder, Ryoshi, locked 50% in Uniswap, then “burned” the other half to Ethereum co-founder Vitalik Buterin for safekeeping."
-image="https://i.ibb.co/cCKyP73/images-1.png"
+name="TerraVirtua"
+desc=""
+conditions="Terra Virtua  (TV) is the first fully immersive, blockchain-driven virtual reality entertainment platform, uniquely focusing on VR games, eSports, live events and broadcasts, combining the admission elements of netflix"
+image="https://i.ibb.co/TWXZtGb/image.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#AngryShiba was issued using the open and inclusive Stellar blockchain network.
+#TerraVirtua was issued using the open and inclusive Stellar blockchain network.
